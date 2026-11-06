@@ -25,10 +25,10 @@ Provisionar uma instância Amazon EC2, configurar um Security Group e utilizar U
 ![User Data](prints/Bootstrap.PNG)
 
 ### Security Group
-![Security Group](prints/Firewall-Stateless-configurado-porta-80.PNG)
+![Security Group](prints/Firewall%20Stateless%20configurado%20porta%2080.PNG)
 
 ### Servidor Web funcionando
-![Servidor Web](prints/Apache-ativo,-SG-liberado-porta-80.PNG)
+![Servidor Web](prints/Apache%20ativo%2C%20SG%20liberado%20porta%2080.PNG)
 
 ## O que aprendi
 
